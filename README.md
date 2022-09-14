@@ -6,9 +6,7 @@
 
 - 💼 Mobile developer Student
 
-- 🎓 graduate in computer science
-
-- ❤️ I love providing amazing experiences through codes
+- ❤️ in love with music
 
 - 💬 Ask me about anything, my contacts are below
   
