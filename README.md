@@ -57,10 +57,9 @@
 
 <div align="center">
   
-  ![Snake animation](https://github.com/julianoBeerg/julianoBeerg/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/luanalisboamartins/luanalisboamartins/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
 <div align="center">
   <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> and <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
